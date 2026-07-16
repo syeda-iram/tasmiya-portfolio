@@ -1,0 +1,10 @@
+{
+  "name": "tasmiya-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Personal portfolio site with a Supabase-backed contact form.",
+  "scripts": {},
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.0"
+  }
+}
