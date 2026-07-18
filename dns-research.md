@@ -1,4 +1,4 @@
-# Task 4 — DNS Research: Connecting a Custom Domain to Vercel
+# DNS Research: Connecting a Custom Domain to Vercel
 
 **Project:** Tasmiya Portfolio — DevOps Internship 2026  
 **Submitted by:** Syeda Tasmiya Iram  
