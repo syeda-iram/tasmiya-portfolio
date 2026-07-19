@@ -4,3 +4,5 @@
 node_modules/
 .vercel
 dns-research.md
+devops-fundamentals.md
+ubuntu-nginx-pm2-deployment.md
